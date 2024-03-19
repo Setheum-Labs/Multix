@@ -26,7 +26,7 @@
     "@subsquid/graphql-server": "^4.3.1",
     "@subsquid/ss58": "^2.0.1",
     "@subsquid/substrate-processor": "^7.2.1",
-    "@subsquid/typeorm-migration": "^1.2.2",
+    "@subsquid/typeorm-migration": "^1.2.4",
     "@subsquid/typeorm-store": "^1.2.4",
     "dotenv": "^16.3.1",
     "pg": "8.11.3",

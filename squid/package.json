@@ -23,7 +23,7 @@
   "dependencies": {
     "@polkadot/util-crypto": "^12.5.1",
     "@subsquid/archive-registry": "^3.3.0",
-    "@subsquid/graphql-server": "^4.3.1",
+    "@subsquid/graphql-server": "^4.4.0",
     "@subsquid/ss58": "^2.0.1",
     "@subsquid/substrate-processor": "^7.2.1",
     "@subsquid/typeorm-migration": "^1.2.2",
